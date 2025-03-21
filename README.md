@@ -1,3 +1,4 @@
+[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{owner}/{repo})
 # cMPlonka3355.github.io
 Personal repository for my own website.
 
