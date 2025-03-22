@@ -3,4 +3,4 @@ Personal repository for my own website.
 
 There is no problem that this website was designed to solve, and no software connected to it. This is meant to be a blank website to test the ability of OpenSSF Best Practices Badge Application.
 
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{owner}/{repo})
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/ossf/scorecard-action/badge)](https://scorecard.dev/viewer/?uri=github.com/ossf/scorecard-action)
