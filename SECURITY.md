@@ -1,1 +1,0 @@
-Private reporting has been enabled for this project. Vulnerabilities can be reported using the steps laid out hear: https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability
