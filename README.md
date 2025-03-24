@@ -11,3 +11,5 @@ To provide feedback on this project, as well as to obtain information regarding 
 Any contributions to be made to this project should be done using the HTML coding standards laid out by CKAN. The standard can be found here: https://docs.ckan.org/en/2.9/contributing/html.html. Alongside that, all contributions must be submitted with a corresponding email detailing the purpose of the contribution and what actions it performs.
 
 To report a vulnerability, I can be emailed through the email above or an issue report can be submitted through the issues tag of this GitHub repository. Issues will then be reviewed and I will respond to them as soon as I can.
+
+Testing for this site will be done through Selenium. In order to run the tests for the site, ensure that the link for the site is listed in the get() function for the driver you are using. Afterwards, use standard testing protocols for Selenium to check the accessibility and functionality of certain parts of the website.
