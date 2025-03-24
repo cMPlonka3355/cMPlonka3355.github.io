@@ -14,4 +14,4 @@ To report a vulnerability, I can be emailed through the email above or an issue 
 
 Testing for this site will be done through Selenium. In order to run the tests for the site, ensure that the link for the site is listed in the get() function for the driver you are using. Afterwards, use standard testing protocols for Selenium to check the accessibility and functionality of certain parts of the website.
 
-Any major updates to the project that adds new functionality shall also add tests to ensure that such functionality works.
+Any major updates to the project that adds new functionality shall also add tests to ensure that such functionality works. While conributions can be made for both normal functions and for tests, I will be the one ensuring that the testing for any fucntions works properly. Thus it is not required for others to do the testing of the site, as I will ensure full testing to the best of my abilities.
