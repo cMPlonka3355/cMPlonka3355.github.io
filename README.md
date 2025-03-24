@@ -9,3 +9,5 @@ This project is meant to host a personal website, in order to solve the issue of
 To provide feedback on this project, as well as to obtain information regarding it, persons can email me at klonothew@gmail.com. I can also be contacted through that email for the purpose of providing contributions to this project, and the standard process of making push and pull requests to this repository can be done.
 
 Any contributions to be made to this project should be done using the HTML coding standards laid out by CKAN. The standard can be found here: https://docs.ckan.org/en/2.9/contributing/html.html. Alongside that, all contributions must be submitted with a corresponding email detailing the purpose of the contribution and what actions it performs.
+
+To report a vulnerability, I can be emailed through the email above or an issue report can be submitted through the issues tag of this GitHub repository. Issues will then be reviewed and I will respond to them as soon as I can.
