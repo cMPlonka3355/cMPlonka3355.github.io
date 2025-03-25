@@ -1,4 +1,4 @@
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/ossf/scorecard-action/badge)](https://scorecard.dev/viewer/?uri=github.com/ossf/scorecard-action)
+![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/ossf/scorecard-action/badge)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10215/badge)](https://www.bestpractices.dev/projects/10215) 
 
 # cMPlonka3355.github.io
