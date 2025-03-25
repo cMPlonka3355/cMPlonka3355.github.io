@@ -1,5 +1,5 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/ossf/scorecard-action/badge)](https://scorecard.dev/viewer/?uri=github.com/ossf/scorecard-action)
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10215/badge)]
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10215/badge)](https://www.bestpractices.dev/projects/10215) 
 
 # cMPlonka3355.github.io
 Personal repository for my own website.
